@@ -32,7 +32,11 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-
+.picRight{
+	position: relative;
+	float:right;
+	margin: 40px 0 40px 0;
+}
 ol, ul {
 	list-style: none;
 }
@@ -2189,3 +2193,4 @@ input, select, textarea {
 			}
 
 		}
+
