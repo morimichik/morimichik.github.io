@@ -37,10 +37,7 @@ body {
 	float:right;
 	margin: 40px 0 40px 0;
 }
-p{
-	text-align: center;
-	margin-top:10px;
-}
+
 ol, ul {
 	list-style: none;
 }
