@@ -43,6 +43,9 @@ body {
 	height:250px;
 	object-fit:cover;
 }
+.port-text{
+	text-align:center;
+}
 
 ol, ul {
 	list-style: none;
