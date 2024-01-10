@@ -37,6 +37,9 @@ body {
 	float:right;
 	margin: 40px 0 40px 0;
 }
+.textRight{
+	text-align: right;
+}
 .port-img{
 	display: inline-block;
 	width:100%;
