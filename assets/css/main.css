@@ -42,8 +42,12 @@ body {
 	float:left;
 }
 .text-right{
+	top: 50%;
+	position: relative;
 	text-align: right;
 	margin: 0 30px 0 0;
+	transform: translateY(50%);
+	
 }
 .port-img{
 	display: inline-block;
